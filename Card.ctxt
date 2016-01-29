@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=cardType\ cardValue
+comment0.target=Card(int,\ int)
+comment0.text=\r\ncardType\ consists\ of\ the\ card's\ suit.\r\n1\ -\ Spades\r\n2\ -\ Clubs\r\n3\ -\ Hearts\r\n4\ -\ Diamonds\r\n\r\n--------------------------------------------------------------\r\n\r\ncardNum\ consists\ of\ the\ card's\ value\ in\ the\ suit.\ These\ are\ in\ order.\r\nSpades\ -\ 1\ through\ 13\ -\ A,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9,\ 10,\ J,\ Q,\ K\r\nClubs\ -\ \ 14\ through\ 26\ -\ A,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9,\ 10,\ J,\ Q,\ K\r\nHearts\ -\ 27\ through\ 39\ -\ A,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9,\ 10,\ J,\ Q,\ K\r\nDiamonds\ -\ 40\ through\ 52\ -\ A,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9,\ 10,\ J,\ Q,\ K\r\n
+comment1.params=cardType
+comment1.target=java.lang.String\ setType(int)
+comment2.params=
+comment2.target=void\ setImageLoc()
+comment3.params=
+comment3.target=java.lang.String\ getImageLoc()
+comment4.params=
+comment4.target=int\ getValue()
+numComments=5
